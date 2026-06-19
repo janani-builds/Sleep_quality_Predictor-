@@ -5,7 +5,7 @@ A Machine Learning–powered web application that analyzes daily lifestyle and p
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ---
 
